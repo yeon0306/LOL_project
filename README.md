@@ -2,9 +2,11 @@
 
 ## LOL 게임 경기 데이터 승패 예측 프로젝트 
 
+<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/98c610d7-7760-43dd-8a5f-a7dbbe2d3649" width="700"></div>
+
+
 # 1. 개요 
 
-![image](https://github.com/yeon0306/LOL_project/assets/112537146/265804c5-1bdf-41fa-b087-656675137a48)
 
 League of Legends(이하 LoL)은 라이엇 게임즈가 개발 및 서비스 중인 MOBA(Multiplayer Online Battle Arena) 장르의 게임으로, 5명의 플레이어가 각자 다른 포지션에서 성장을 통해 아이템과 레벨을 올려 상대의 기지를 파괴하는 게임이다. 이 게임은 MOBA(AOS) 장르의 이전 게임들과는 다르게 진입 장벽이 낮아 더 많은 인기를 얻고 있으며 전 세계적으로 많은 유저들을 보유하고 있다.
 <a href="https://www.hani.co.kr/arti/culture/culture_general/1066200.html/">[1]</a> 
