@@ -3,9 +3,9 @@
  
 # League Of Lengend 게임 데이터 승패 예측 프로젝트 
 Riot Games에서 제공하는 LOL 랭크 게임 데이터를 활용한 게임 승패 예측 프로젝트
+
 <img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 </div>
 
 # 1. 개요 
