@@ -2,7 +2,7 @@
 <div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/067683fb-5d66-4cde-b461-5b192440b448.PNG" width="1000"></div>
  
 # League Of Lengend 게임 데이터 승패 예측 프로젝트 
-Riot Games에서 제공하는 LOL 랭크 게임 데이터를 활용한 게임 승패 예측 프로젝트
+더매치랩(The Match LAB)에서 가공한 LOL 랭크 게임 데이터를 활용한 게임 승패 예측 프로젝트
 
 <img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -37,7 +37,7 @@ Riot Games API를 통해 LOL 소환사의 개인 게임 정보와 함께 경기 
 # 2.1 데이터 소스
 
 이번 프로젝트에 활용할 데이터는 온라인 게임 코칭 전문기업인 
-더매치랩(The Match LAB)에서 가공한 LOL 게임 데이터를 바탕으로 한다.
+더매치랩(The Match LAB)에서 가공한 LOL 랭크 게임 데이터를 바탕으로 한다.
 데이터는 2023년 8월 25일, 9월 15일, 9월 17일 각각 하루 동안 수집된 
 LOL 경기에 대한 세부 항목들로 구성되어 있다.
 
