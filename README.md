@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=300&section=header&text=Predicting%20League%20of%20Legends%20Outcomes&fontSize=40&animation=fadeIn&fontAlignY=36&descSize=18&desc=&descAlignY=53&fontColor=FFFFFF)
+
+<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/067683fb-5d66-4cde-b461-5b192440b448" width="1000"></div>
 
 ## LOL 게임 경기 데이터 승패 예측 프로젝트 
-
-<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/98c610d7-7760-43dd-8a5f-a7dbbe2d3649" width="700"></div>
 
 
 # 1. 개요 
