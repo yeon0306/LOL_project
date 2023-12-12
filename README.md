@@ -26,7 +26,7 @@ League of Legends(이하 LoL)은 라이엇 게임즈가 개발 및 서비스 중
   <img src="https://github.com/yeon0306/LOL_project/assets/112537146/057132e5-c62f-41c9-8cb0-b569fd7d60f8" width="600">
 </div>
 
- (출처: [gametrics](https://www.gametrics.com/)   ,    [gameple](https://www.gameple.co.kr/news/articleView.html?idxno=143043))
+ (출처: [gametrics](https://www.gametrics.com/)  ,  [gameple](https://www.gameple.co.kr/news/articleView.html?idxno=143043))
 
 
 LOL을 개발한 Riot Games는 게임 자체의 재미뿐만 아니라 분석 가능한 데이터를 무료로 공개하고 있다.
@@ -49,10 +49,9 @@ LOL 경기에 대한 세부 항목들로 구성되어 있다.
 
 데이터는 5대5 솔로 랭크 경기 약 20만 건으로 구성되어 있으며 포지션별로 데이터가 구분되어 있다. 
 
-스킬의 메커니즘에 따라 운용법이 나뉘는 6가지(암살자,탱커,전사,마법사,원거리딜러,서포터)의 '역할군'과 별도로 초중반에 담당하는 공격로에 따라 결정되는 '포지션'이라는 개념이 존재한다.
-초창기에는 유저들이 사용하는 전술들 중 하나였으나 라이엇이 차후 EU 스타일 체제를 인정하면서 라이엇 공식으로 자리잡는다.
-기본적인 구성은 상단 공격로(Top Lane) 1명, 정글(Jungle) 1명, 중단 공격로(Mid Lane) 1명, 하단 공격로(Bottom Lane) 2명으로 이루어진다. 
-5가지 포지션에 대한 내용은 다음과 같다.
+스킬의 메커니즘에 따라 운용법이 나뉘는 6가지( 암살자, 탱커, 전사, 마법사, 원거리딜러, 서포터) 의 '역할군'과 별도로 초중반에 담당하는
+공격로에 따라 결정되는 '포지션' 이라는 개념이 존재한다. 초창기에는 유저들이 사용하는 전술들 중 하나였으나 라이엇이 차후 EU 스타일 체제를 인정하면서 라이엇 공식으로 자리잡는다.
+기본적인 구성은 상단 공격로(Top Lane) 1명, 정글(Jungle) 1명, 중단 공격로(Mid Lane) 1명, 하단 공격로(Bottom Lane) 2명으로 이루어진다. 5가지 포지션에 대한 내용은 다음과 같다.
 
 <div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/74c247e5-7674-4bcc-bb8d-15a0ee01b9d5" width="700"></div>
 
