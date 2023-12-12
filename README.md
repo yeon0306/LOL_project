@@ -19,7 +19,12 @@ League of Legends(이하 LoL)은 라이엇 게임즈가 개발 및 서비스 중
 2018 자카르타·팔렘방 아시안 게임에서는 공식 시범 종목으로 채택되기도 했다. <a href="https://namu.wiki/w/2018%20%EC%9E%90%EC%B9%B4%EB%A5%B4%ED%83%80%C2%B7%ED%8C%94%EB%A0%98%EB%B0%A9%20%EC%95%84%EC%8B%9C%EC%95%88%20%EA%B2%8C%EC%9E%84/e%EC%8A%A4%ED%8F%AC%EC%B8%A0/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C/%EB%B3%B8%EC%84%A0">[2]</a>
 국내에서는 League of Legends가 PC방 점유율 1위를 유지하며 대한민국 청소년 문화의 상징 중 하나로 자리매김하고 있으며 특히 청소년과 젊은 성인층을 중심으로 꾸준한 인기를 누리고 있다.
 <a href="https://www.mk.co.kr/news/it/10342621">[3]</a>
-<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/965fda30-b7ea-4f52-a6b1-39c93d193fad" width="300"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/057132e5-c62f-41c9-8cb0-b569fd7d60f8" width="700"></div>
+
+
+<div>
+  <img src="https://github.com/yeon0306/LOL_project/assets/112537146/965fda30-b7ea-4f52-a6b1-39c93d193fad" width="300">
+  <img src="https://github.com/yeon0306/LOL_project/assets/112537146/057132e5-c62f-41c9-8cb0-b569fd7d60f8" width="700">
+</div>
 
  (출처: [gametrics](https://www.gametrics.com/), [gameple](https://www.gameple.co.kr/news/articleView.html?idxno=143043))
 
