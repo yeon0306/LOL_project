@@ -12,14 +12,14 @@ Riot Games에서 제공하는 LOL 랭크 게임 데이터를 활용한 게임 �
 
 
 League of Legends(이하 LoL)은 라이엇 게임즈가 개발 및 서비스 중인 MOBA(Multiplayer Online Battle Arena) 장르의 게임으로, 5명의 플레이어가 각자 다른 포지션에서 성장을 통해 아이템과 레벨을 올려 상대의 기지를 파괴하는 게임이다. 이 게임은 MOBA(AOS) 장르의 이전 게임들과는 다르게 진입 장벽이 낮아 더 많은 인기를 얻고 있으며 전 세계적으로 많은 유저들을 보유하고 있다.
-<a href="https://www.hani.co.kr/arti/culture/culture_general/1066200.html/">[1]</a> 
+<a href="https://namu.wiki/w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C/%ED%9D%A5%ED%96%89">[1]</a> 
 
 2016년 기준으로 월 플레이어 수가 1억 명 이상을 기록하며, 2019년 8월에는 전 세계 서버의 피크 시간 동시 접속자 수가 800만 명 이상이었다. 
 또한 League of Legends은 전 세계 E스포츠 대회에서 가장 많은 시청자 수를 기록하며, 리그 오브 레전드 월드 챔피언십과 각 지역 리그 등 다양한 e스포츠 대회가 개최되는 중이다.
-2018 자카르타·팔렘방 아시안 게임에서는 공식 시범 종목으로 채택되기도 했다. <a href="https://namu.wiki/w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C%20%EC%9B%94%EB%93%9C%20%EC%B1%94%ED%94%BC%EC%96%B8%EC%8B%AD/">[2]</a>
+2018 자카르타·팔렘방 아시안 게임에서는 공식 시범 종목으로 채택되기도 했다. <a href="https://namu.wiki/w/2018%20%EC%9E%90%EC%B9%B4%EB%A5%B4%ED%83%80%C2%B7%ED%8C%94%EB%A0%98%EB%B0%A9%20%EC%95%84%EC%8B%9C%EC%95%88%20%EA%B2%8C%EC%9E%84/e%EC%8A%A4%ED%8F%AC%EC%B8%A0/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C/%EB%B3%B8%EC%84%A0">[2]</a>
 국내에서는 League of Legends가 PC방 점유율 1위를 유지하며 대한민국 청소년 문화의 상징 중 하나로 자리매김하고 있으며 특히 청소년과 젊은 성인층을 중심으로 꾸준한 인기를 누리고 있다.
-<a href="https://namu.wiki/w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C/%ED%9D%A5%ED%96%89/">[3]</a>
-<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/1cbe21b1-de65-47d6-8790-ea9863818a56" width="300"></div>
+<a href="https://www.mk.co.kr/news/it/10342621">[3]</a>
+<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/965fda30-b7ea-4f52-a6b1-39c93d193fad" width="300"></div>
  (출처:<a href="https://www.gametrics.com/">gametrics</a>) </p></h5>
 
 LOL을 개발한 Riot Games는 게임 자체의 재미뿐만 아니라 분석 가능한 데이터를 무료로 공개하고 있다.
