@@ -96,14 +96,52 @@ LOL 경기에 대한 세부 항목들로 구성되어 있다.
 
 ## 2.3 데이터 전처리
 
-20만 건의 경기 데이터는 수준 별로 편차가 어느정도 존재할 것으로 
-예상된다. 따라서 일정 수준 이상의 데이터로 지표의 상관성을 통해
+20만 건의 경기 데이터는 수준 별로 편차가 어느정도 존재할 것으로 예상된다.
+따라서 일정 수준 이상의 데이터로 지표의 상관성을 통해
 승패예측 모델을 만드는 것이 합리적일 것이다.
 
-이에 이번 프로젝트에서는 다음과 같이 정의되는 LOL게임의 등급체계(tier)
-를 바탕으로, 모든 플레이어가 플래티넘 이상인 경기를 추출하여 분석해보고자 한다.
+이에 이번 프로젝트에서는 다음과 같이 정의되는 LOL게임의 등급체계(tier) 를 바탕으로, 모든 플레이어가 **플래티넘 이상**인 경기를 추출하여 분석해보고자 한다.
 
-* 티어에 대한 정보 (표)
+  <details>
+<summary>한국 티어 분포표 </summary>
+<div markdown="1">
+<table>
+  <tr><th>티어</th><th>단계</th><th>분포</th><th>합</th></tr>
+  <tr><th rowspan='1'>챌린저</th><th>I</th><td>0.01%</td><td>0.01%</td></tr>
+  <tr><th rowspan='1'>그랜드마스터</th><th>I</th><td>0.02%</td><td>0.03%</td></tr>
+  <tr><th rowspan='1'>마스터</th><th>I</th><td>0.47%</td><td>0.50%</td></tr>
+   <tr><th rowspan='4'>다이아</th><th>I</th><td>0.39%</td><td rowspan='4'>3.45%</td></tr>
+  <tr><th>II</th><td>0.55%</td></tr>
+  <tr><th>III</th><td>0.69%</td></tr>
+   <tr><th>IV</th><td>1.82%</td></tr>
+    <tr><th rowspan='4'>에메랄드</th><th>I</th><td>1.58%</td><td rowspan='4'>13.66%</td></tr>
+  <tr><th>II</th><td>1.93%</td></tr>
+  <tr><th>III</th><td>3.2%</td></tr>
+   <tr><th>IV</th><td>6.95%</td></tr>
+    <tr><th rowspan='4'>플래티넘</th><th>I</th><td>2.15%</td><td rowspan='4'>16.96%</td></tr>
+  <tr><th>II</th><td>3.22%</td></tr>
+  <tr><th>III</th><td>4.2%</td></tr>
+   <tr><th>IV</th><td>7.39%</td></tr>
+    <tr><th rowspan='4'>골드</th><th>I</th><td>2.68%</td><td rowspan='4'>19.25%</td></tr>
+  <tr><th>II</th><td>3.92%</td></tr>
+  <tr><th>III</th><td>4.84%</td></tr>
+   <tr><th>IV</th><td>7.81%</td></tr>
+    <tr><th rowspan='4'>실버</th><th>I</th><td>2.78%</td><td rowspan='4'>19.03%</td></tr>
+  <tr><th>II</th><td>4.01%</td></tr>
+  <tr><th>III</th><td>4.87%</td></tr>
+   <tr><th>IV</th><td>7.37%</td></tr>
+    <tr><th rowspan='4'>브론즈</th><th>I</th><td>3.3%</td><td rowspan='4'>19.92%</td></tr>
+  <tr><th>II</th><td>4.49%</td></tr>
+  <tr><th>III</th><td>5.08%</td></tr>
+   <tr><th>IV</th><td>7.05%</td></tr>
+    <tr><th rowspan='4'>아이언</th><th>I</th><td>3.11%</td><td rowspan='4'>7.21%</td></tr>
+  <tr><th>II</th><td>2.54%</td></tr>
+  <tr><th>III</th><td>1.08%</td></tr>
+   <tr><th>IV</th><td>0.48%</td></tr>
+</table> <br>
+  </div>
+</details>
+
 * 티어별 히스토그램
 * 플래티넘 이상인 경기의 수
 
