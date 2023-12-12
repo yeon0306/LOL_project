@@ -19,14 +19,13 @@ League of Legends(이하 LoL)은 라이엇 게임즈가 개발 및 서비스 중
 2018 자카르타·팔렘방 아시안 게임에서는 공식 시범 종목으로 채택되기도 했다. <a href="https://namu.wiki/w/2018%20%EC%9E%90%EC%B9%B4%EB%A5%B4%ED%83%80%C2%B7%ED%8C%94%EB%A0%98%EB%B0%A9%20%EC%95%84%EC%8B%9C%EC%95%88%20%EA%B2%8C%EC%9E%84/e%EC%8A%A4%ED%8F%AC%EC%B8%A0/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C/%EB%B3%B8%EC%84%A0">[2]</a>
 국내에서는 League of Legends가 PC방 점유율 1위를 유지하며 대한민국 청소년 문화의 상징 중 하나로 자리매김하고 있으며 특히 청소년과 젊은 성인층을 중심으로 꾸준한 인기를 누리고 있다.
 <a href="https://www.mk.co.kr/news/it/10342621">[3]</a>
-<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/965fda30-b7ea-4f52-a6b1-39c93d193fad" width="300"></div>
- (출처:<a href="https://www.gametrics.com/">gametrics</a>) </p></h5>
+<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/965fda30-b7ea-4f52-a6b1-39c93d193fad" width="300"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/057132e5-c62f-41c9-8cb0-b569fd7d60f8" width="700"></div>
+
+ (출처: [gametrics](https://www.gametrics.com/), [gameple](https://www.gameple.co.kr/news/articleView.html?idxno=143043))
+
 
 LOL을 개발한 Riot Games는 게임 자체의 재미뿐만 아니라 분석 가능한 데이터를 무료로 공개하고 있다.
 Riot Games API를 통해 LOL 소환사의 개인 게임 정보와 함께 경기 데이터까지 제공되고 있으며 <a href="https://developer.riotgames.com/">[4]</a> LOL 공식 홈페이지에서 플레이어의 통계 메뉴에서 자신이 다른 플레이어에 비해 뛰어난 부분과 연패 시의 문제점을 직접 분석해볼 수도 있다.
-
-![image](https://github.com/yeon0306/LOL_project/assets/112537146/4fdb039d-5f70-4d87-a358-2be17bad781c) <br>
- (출처: <a href="https://www.inven.co.kr/board/lol/2778/59746">LOL inven</a>) </p></h5>
 
 통계적으로 하루 24시간 동안 수집되는 경기 수는 약 20만 건에 달하며, 
 소정의 절차를 거치면 손쉽게 얻을 수 있다.<a href="https://dev-records.tistory.com/entry/Python-Riot-API-LOL-%EB%9E%AD%ED%81%AC-%EA%B2%8C%EC%9E%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91/">[5]</a>
