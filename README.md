@@ -22,7 +22,7 @@ League of Legends(이하 LoL)은 라이엇 게임즈가 개발 및 서비스 중
 
 
 <div>
-  <img src="https://github.com/yeon0306/LOL_project/assets/112537146/965fda30-b7ea-4f52-a6b1-39c93d193fad" width="250">
+  <img src="https://github.com/yeon0306/LOL_project/assets/112537146/965fda30-b7ea-4f52-a6b1-39c93d193fad" width="200">
   <img src="https://github.com/yeon0306/LOL_project/assets/112537146/057132e5-c62f-41c9-8cb0-b569fd7d60f8" width="600">
 </div>
 
