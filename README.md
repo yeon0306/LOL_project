@@ -1,5 +1,5 @@
 <div align=center>
-<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/067683fb-5d66-4cde-b461-5b192440b448" width="1000"></div>
+<div><img src="https://github.com/yeon0306/LOL_project/assets/112537146/067683fb-5d66-4cde-b461-5b192440b448.PNG" width="1000"></div>
  
 # League Of Lengend 게임 데이터 승패 예측 프로젝트 
 Riot Games에서 제공하는 LOL 랭크 게임 데이터를 활용한 게임 승패 예측 프로젝트
