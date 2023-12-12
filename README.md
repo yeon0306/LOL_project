@@ -26,7 +26,7 @@ League of Legends(이하 LoL)은 라이엇 게임즈가 개발 및 서비스 중
   <img src="https://github.com/yeon0306/LOL_project/assets/112537146/057132e5-c62f-41c9-8cb0-b569fd7d60f8" width="600">
 </div>
 
- (출처: [gametrics](https://www.gametrics.com/), [gameple](https://www.gameple.co.kr/news/articleView.html?idxno=143043))
+ (출처: [gametrics](https://www.gametrics.com/)   ,    [gameple](https://www.gameple.co.kr/news/articleView.html?idxno=143043))
 
 
 LOL을 개발한 Riot Games는 게임 자체의 재미뿐만 아니라 분석 가능한 데이터를 무료로 공개하고 있다.
