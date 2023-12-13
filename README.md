@@ -149,8 +149,21 @@ LOL 경기에 대한 세부 항목들로 구성되어 있다.
 티어는 승리하여 일정한 LP를 모으면 다음 티어로 승급하거나, 패배하여 LP를 잃으면 강등된다. 아이언부터 브론즈, 실버, 골드, 플래티넘, 에메랄드, 다이아, 마스터, 그랜드마스터 그리고 마지막 랭크인 챌린저까지 존재하며 아이언 랭크에는 아이언4부터 아이언 1까지의 티어가 있고, 이는 다이아 랭크까지 동일한 체제를 갖추고 있다. 숫자가 낮을 수록 낮은 티어이며 숫자가 높을수록 상위 티어로 분류된다. 그 위에 있는 마스터, 그랜드 마스터, 챌린저는 점수제로 바뀐다. 
 </details>
 
+<details>
+<summary>0825 티어 분포도</summary>
+<div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/4a40c073-cedd-4504-ba8f-be2e81edcae9"> </div>
+</details>
 
-* 티어별 히스토그램
+<details>
+<summary>0915 티어 분포도</summary>
+<div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/e87da1c9-001e-43d7-8989-f5e657f2cc63"> </div>
+</details>
+
+<details>
+<summary>0917 티어 분포도</summary>
+<div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/6bc8974a-b73a-4b7e-ae62-d2df0fc8d545"> </div>
+</details>
+
 * 플래티넘 이상인 경기의 수
   
 |  |	0825	|0915|	0917|
