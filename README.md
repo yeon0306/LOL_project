@@ -170,33 +170,34 @@ LOL 경기에 대한 세부 항목들로 구성되어 있다.
 |--| ---- |----|-----|
 |플래티넘↑ |44962|	28209|	25208|
 
-도출된 플래티넘 이상의 경기에 대해서, 핵심 데이터 속성으로 
-???, ???, ??? 등을 추출했다. 그 이유는 ~~~ 때문이다. 그리고 승패를 
+
+
+플래티넘 이상의 경기에서 핵심 데이터 속성으로 kda, dealt, dpm, dpg, dpd, dtpm, goldearned, kills, object, diffdpg, diffcs, gpm, xpm을 선택한 이유는 다양한 측면에서 게임의 핵심을 나타내는 지표들을 고려하기 위함입니다. 각 속성은 플레이어의 성과, 팀의 성과, 경기의 흐름 등을 다양한 각도에서 살펴보기 위해 선택되었습니다. 그리고 승패를 
 예측하는 것이기 때문에, 경기 데이터를 기준으로 데이터 속성별 정규화
 (normalize)를 수행했다.
 
+도출된 플래티넘 이상의 경기에 대해서, 핵심 데이터 속성으로 kda, dealt, dpm, dpg, dpd, dtpm, goldearned,kills, object,diffdpg,diffcs,gpm, xpm을 추출했다.
+그 이유는 전반적인 활약도를 나타내는 kda, dealt, dpm과 초기에 높은 이점을 가져다줄 수 있는 kill_at14, 그리고 그 격차들을 나타내주는 diffdpm, diffgold와 경제적 성과와 연결되는 cs, goldearned, 시야 확보를 얼마나 햇는가를 나타내는 visionscore, 오브젝트를 얼마나 활용햇는가를 나타내는 dragon, baron, 마지막으로 맵컨트롤과 길을 얼마나 확보하엿는가를 나타내는 tower 모두 승패와 연관있기 때문이다. 그리고 승패를 예측하는 것이기 때문에, 경기 데이터를 기준으로 데이터 속성별 정규화(normalize)를 수행했다.
 
 ## 2.4 데이터 프레임 설계 
 
-| id | team | feature |  TOP | MID | JUG | SPT | ADC | 
-|---| ---| --------|---------|----|-----|----------|-----------|
-|고유번호 | 100(blue) | kda   |  5.0  | 3.2  |  2.375  |  4.75   |  1.125 |
-|          |          | dealt   | 27515  | 20464   |  25612  |8103| 16208 |
-|          |          | dpm   |1128.43  |  839.262 | 1050.39 | 332.317 | 664.716 |
-|          |          | dpg   |  2.77677| 2.34814 | 3.00328 | 1.35615 | 1.90123 |
-|          |          | dpd   |  9171.67 | 4092.8  | 3201.5 |  2025.75 | 2026.0 |
-|          |          | dtpm  |  1150.46  | 820.232  | 1321.07  | 619.111 | 764.662 |
-|          |          | goldearned  | 12603  |  10484  |  11830  |  7397  |   9822 |
-|...|...| ... | ....|...|...|....|....|
-|          |200(red) | kills      |         8     |     8    |    10|          2|         4| 
-|          |          |object    |          4    |      4     |    4  |        4  |       4| 
-|          |          |      diffdpg  |    0.493866 |  0.485824  | 1.83536|  -0.054946 | -1.25777| 
-|          |           |    diffcs   |          31   |    -18    |   -25  |      -30  |      10| 
-|          |          |      gpm   |        516.869  |  429.966 |  485.167 |   303.363 |  402.816| 
-|          |           |      xpm   |        628.831|    506.329 |   472.29  |   387.97 |  398.961| 
-
-
-
+<table>
+  <tr align="center"><th rowspan="2">Id</th><th rowspan="2">팀</th><th rowspan="2">주요지표</th><th colspan="5">포지션</th></tr>
+  <tr align="center"><th>TOP</th><th>MID</th><th>JUG</th><th>ADC</th><th>SPT</th></tr>
+  <tr align="center"><td rowspan="13">고유번호</td><td rowspan="13">100/200</td><td>kda</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>dealt</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>dpm</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>dpg</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>dpd</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>dtpm</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>goldearned</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>kills</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>object</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>diffdpg</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>diffcs</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>gpm</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+  <tr align="center"><td>xpm</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
+</table>
 
 
 
