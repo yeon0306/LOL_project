@@ -150,19 +150,35 @@ LOL 경기에 대한 세부 항목들로 구성되어 있다.
 </details>
 
 <details>
-<summary>0825 티어 분포도</summary>
+<summary>0825 전체 티어 분포도</summary>
 <div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/4a40c073-cedd-4504-ba8f-be2e81edcae9"> </div>
 </details>
 
 <details>
-<summary>0915 티어 분포도</summary>
+<summary>0825 플래티넘 이상 티어 분포도</summary>
+<div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/c2b0d636-4726-4de2-9e99-45d6a993afcd"> </div>
+</details>
+
+<details>
+<summary>0915 전체 티어 분포도</summary>
 <div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/e87da1c9-001e-43d7-8989-f5e657f2cc63"> </div>
 </details>
 
 <details>
-<summary>0917 티어 분포도</summary>
+<summary>0915 플래티넘 이상 티어 분포도</summary>
+<div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/40e8ecab-2f38-4cfb-ba09-d0271eea180d"> </div>
+</details>
+
+<details>
+<summary>0917 전체 티어 분포도</summary>
 <div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/6bc8974a-b73a-4b7e-ae62-d2df0fc8d545"> </div>
 </details>
+
+<details>
+<summary>0917 플래티넘 이상 티어 분포도</summary>
+<div align="left"><img src="https://github.com/yeon0306/LOL_project/assets/112537146/8203f5d8-fc24-4770-b67e-e381736ba009"> </div>
+</details>
+
 
 * 플래티넘 이상인 경기의 수
   
