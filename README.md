@@ -229,7 +229,7 @@ LOL 경기에 대한 세부 항목들로 구성되어 있다.
     <th> </th><th> </th><th>정확도(단순)</th><th>정확도(CNN)</th></tr>
   <tr align="center"><td rowspan="2">0825</td><td>플래티넘↑</td><td>95.8%</td><td>97.6%</td></tr>
   <tr align="center">
-    <td>전체</td><td>95%</td><td></td></tr>
+    <td>전체</td><td>95%</td><td>95.3%</td></tr>
   <tr align="center"><td rowspan="2">0915</td><td>플래티넘↑</td><td>	94.9%</td><td>	97.4%</td></tr>
   <tr align="center">
     <td>전체</td><td>	93.4%</td><td>95.1%</td></tr>
