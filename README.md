@@ -264,6 +264,6 @@ DPG, DPM, GPM 은 어떤 플레이어나 팀이 높은 성과를 내는지를 �
 
 
 --------------------------------------------------
- - <a href="https://github.com/yeon0306/LOL_project/tree/main/Code1">[code]</a>
- - <a href="https://github.com/yeon0306/LOL_project/blob/main/requirements.txt">[개발환경]</a> 
+#### 코드 및 개발환경
+ - <a href="https://github.com/yeon0306/LOL_project/tree/main/Code1">[코드]</a> <a href="https://github.com/yeon0306/LOL_project/blob/main/requirements.txt">[개발환경]</a> 
 
